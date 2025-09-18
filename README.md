@@ -38,7 +38,7 @@ Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vive
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/sales-data-analysis.git
+   git clone https://github.com/adiratna89/sales-data-analysis.git
    ```
 
 2. Install dependencies  
@@ -87,9 +87,12 @@ You can directly download my latest **Data Analyst Resume** here:
 ## 👤 Author  
 
 **Adiratna Kamble**  
-- 📧 [Gmail](mailto:adiratna.kamble@email.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 💻 [GitHub](https://github.com/yourusername)  
+- 📧 [Gmail]
+- (mailto:adi8976839010@gmail.com)  
+- 🔗 [LinkedIn]
+- (www.linkedin.com/in/adiratna-kamble)  
+- 💻 [GitHub]
+- (https://github.com/adiratna89)  
 - 📱 Phone: +91 77180 80580 / 89768 39010  
 
 ---
