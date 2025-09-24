@@ -55,9 +55,11 @@ Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vive
 
 ## 📌 Sample Visualizations  
 
-*(Add screenshots here after running your notebook)*  
+<a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184249.png">
+  <img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184249.png" alt="Screenshot 1" width="150"/></a>   <a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184558.png"><img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184558.png" alt="Screenshot 2" width="150"/></a>   <a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184632.png"><img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184632.png" alt="Screenshot 3" width="150"/></a>
 
-- Monthly Sales Trend  
+
+- Monthly Sales Trend
 - Top 10 Products by Sales  
 - Regional Sales Performance  
 
@@ -78,10 +80,8 @@ Sales-Data-Analysis/
 
 You can directly download my latest **Data Analyst Resume** here:  
 
-- [📑 Resume (PDF Version)](Extra resources - Resume and Screenshots
-/Adiratna_Kamble_Data_Analyst_Resume.pdf)  
-- [📑 Resume (Word Version)](Extra resources - Resume and Screenshots
-/Adiratna_Kamble_Data_Analyst_Resume.docx)  
+- [📑 Resume (PDF Version)](https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Adiratna_Kamble_Data_Analyst_Resume.pdf)  
+- [📑 Resume (Word Version)](https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Adiratna_Kamble_Data_Analyst_Resume.docx)  
 
 ---
 
