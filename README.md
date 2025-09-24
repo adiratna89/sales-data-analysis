@@ -69,7 +69,6 @@ Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vive
 Sales-Data-Analysis/
 │── analysis.ipynb   # Jupyter Notebook with Python analysis
 │── Superstore.csv   # Dataset
-│── dashboard.xlsx   # Excel dashboard (optional)
 │── README.md        # Project documentation
 ```
 
@@ -79,8 +78,10 @@ Sales-Data-Analysis/
 
 You can directly download my latest **Data Analyst Resume** here:  
 
-- [📑 Resume (PDF Version)](../Adiratna_Kamble_Data_Analyst_Resume.pdf)  
-- [📑 Resume (Word Version)](../Adiratna_Kamble_Data_Analyst_Resume.docx)  
+- [📑 Resume (PDF Version)](Extra resources - Resume and Screenshots
+/Adiratna_Kamble_Data_Analyst_Resume.pdf)  
+- [📑 Resume (Word Version)](Extra resources - Resume and Screenshots
+/Adiratna_Kamble_Data_Analyst_Resume.docx)  
 
 ---
 
