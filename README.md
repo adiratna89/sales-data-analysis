@@ -1,6 +1,6 @@
 # 🛒 Sales Data Analysis & Dashboard Project  
 
-📊 **End-to-End Data Analysis** of retail sales data using **Python & Excel**.  
+📊 **End-to-End Data Analysis** of retail sales data using **Python, Excel & PowerBI**.  
 This project demonstrates skills in **data cleaning, exploratory analysis, visualization, and reporting**.  
 
 Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
@@ -22,7 +22,7 @@ Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vive
 ✔️ Explore **monthly sales trends**  
 ✔️ Identify **top products** and categories  
 ✔️ Compare **regional sales performance**  
-✔️ Build an **interactive dashboard (Excel)**  
+✔️ Build an **interactive dashboard in PowerBI**  
 
 ---
 
