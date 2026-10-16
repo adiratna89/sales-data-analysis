@@ -34,6 +34,38 @@ Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vive
 
 ---
 
+## Power BI Dashboard
+
+This dashboard extends the Python and Excel analysis in this repository
+using the same Superstore dataset. It provides an interactive view of
+sales performance through KPI cards, charts, and slicers.
+
+### Dashboard Features
+
+- KPI cards for total sales, total profit, and order count.
+- Monthly sales trends.
+- Regional sales comparisons.
+- Product-performance comparisons.
+- Interactive filters for category, region, and customer segment.
+
+### Dashboard Preview
+
+![Superstore Sales Dashboard](PowerBI/dashboard-preview.png)
+
+### Power BI File
+
+[Download the Power BI report](PowerBI/Superstore_Sales_Dashboard.pbix)
+
+Open the `.pbix` file in Power BI Desktop to explore the report.
+
+### Project Workflow
+
+1. Explore and prepare the Superstore data using Python and Excel.
+2. Analyze product, regional, and seasonal sales patterns.
+3. Present performance metrics through an interactive Power BI dashboard.
+
+---
+
 ## ⚙️ How to Run  
 
 1. Clone the repository  
@@ -56,7 +88,7 @@ Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vive
 ## 📌 Sample Visualizations  
 
 <a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184249.png">
-  <img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184249.png" alt="Screenshot 1" width="150"/></a>   <a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184558.png"><img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184558.png" alt="Screenshot 2" width="150"/></a>   <a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184632.png"><img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184632.png" alt="Screenshot 3" width="150"/></a>
+  <img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184249.png" alt="Screenshot 1" width="250"/></a>   <a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184558.png"><img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184558.png" alt="Screenshot 2" width="250"/></a>   <a href="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184632.png"><img src="https://github.com/adiratna89/sales-data-analysis/blob/main/Extra%20resources%20-%20Resume%20and%20Screenshots/Screenshot%202025-09-24%20184632.png" alt="Screenshot 3" width="250"/></a>
 
 
 - Monthly Sales Trend
@@ -69,6 +101,9 @@ Dataset: [📂 Kaggle – Superstore Sales](https://www.kaggle.com/datasets/vive
 
 ```
 Sales-Data-Analysis/
+|── PowerBI/
+      |── Superstore_Sales_Dashboard.pbix   # PowerBI Dashboard
+      |── dashboard-preview.png             # Preview of Dashboard
 │── analysis.ipynb   # Jupyter Notebook with Python analysis
 │── Superstore.csv   # Dataset
 │── README.md        # Project documentation
