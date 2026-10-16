@@ -1,4 +1,4 @@
-# 🛒 Sales Data Analysis Project  
+# 🛒 Sales Data Analysis & Dashboard Project  
 
 📊 **End-to-End Data Analysis** of retail sales data using **Python & Excel**.  
 This project demonstrates skills in **data cleaning, exploratory analysis, visualization, and reporting**.  
